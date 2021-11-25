@@ -5,5 +5,8 @@
 * Slides
 * Commands used in workshop
 
-### Other L0inks
+### Other Links
 Example scripts : https://github.com/fahad-ansar/45-BASH-Scripts
+Youtube series: https://youtu.be/dQ8JgDUS8DA
+Website : https://www.puttygen.com/linux-commands
+
